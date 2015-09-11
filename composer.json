@@ -1,0 +1,14 @@
+{
+    "name": "GATE F - Game Arek Tymek External-Internal Framework",
+    "description": "Common game interface for aur games",
+    "keywords": ["game"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arek, Tymek"
+        }
+    ],
+    "require": {
+      "psr/log": "1.0.0"
+    }
+}
